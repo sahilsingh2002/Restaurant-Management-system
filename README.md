@@ -14,3 +14,8 @@ To install and run the system, you will need to follow these steps:
 * Calculate the total in 1 click
 * Reset the data
 * Feedback form
+
+# Screenshots
+
+![screenshot1](https://github.com/sahilsingh2002/Restaurant-Management-system/assets/74174130/dbcdcf5e-8425-49b4-8122-7f419d756a8a)
+![screenshot2](https://github.com/sahilsingh2002/Restaurant-Management-system/assets/74174130/4de1635d-eafe-47e3-bf21-718edd7e1365)
